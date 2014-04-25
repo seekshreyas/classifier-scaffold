@@ -6,7 +6,7 @@ My reusable code for using many different classifiers on a dataset.
 It takes some command line flags, like:
 
 ```bash
-python appClassifierBenchmark.py --file="exports/appFeatures.csv" --classifier="all" --sample="split"
+$python appClassifierBenchmark.py --file="exports/appFeatures.csv" --classifier="all" --sample="split"
 ```
 
 where,
